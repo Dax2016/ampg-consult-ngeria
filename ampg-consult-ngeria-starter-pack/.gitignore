@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+node_modules/
+.next/
+dist/
+.gradle/
+build/
+local.properties
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
